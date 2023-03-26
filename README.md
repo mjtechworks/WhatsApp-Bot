@@ -37,9 +37,7 @@ NOTE: We can't guarantee that you won't be blocked using this method, although i
 
 ## Contributors
 
-<a href="https://github.com/askrella/whatsapp-chatgpt/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=askrella/whatsapp-chatgpt" />
-</a>
+
 
 ## Used libraries
 
